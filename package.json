@@ -1,0 +1,20 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "Node Express Examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepikakumari97/node-express.git"
+  },
+  "author": "Deepika Kumari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepikakumari97/node-express/issues"
+  },
+  "homepage": "https://github.com/deepikakumari97/node-express#readme"
+}
